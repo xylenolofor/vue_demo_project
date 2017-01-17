@@ -8,5 +8,6 @@ new Vue({
   el: '#app',
   // el: '#app',
   template: '<App/>',
+  // template: '<App/>',
   components: { App }
 })
