@@ -6,6 +6,7 @@ import App from './App'
 /* eslint-disable no-new */
 new Vue({
   el: '#app',
+  // el: '#app',
   template: '<App/>',
   components: { App }
 })
