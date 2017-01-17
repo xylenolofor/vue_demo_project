@@ -13,6 +13,8 @@
 
 <script>
 import Hello from './components/Hello'
+// import Hello from './components/Hello'
+// import Hello from './components/Hello'
 
 export default {
   name: 'app',
